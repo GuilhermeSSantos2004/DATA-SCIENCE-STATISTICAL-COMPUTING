@@ -7,3 +7,4 @@
 
 # multicolinearidade miniconda3
 Jupter lab
+teste unid
